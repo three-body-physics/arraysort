@@ -4,13 +4,10 @@ Find duplicate numbers in an Array of numbers.
 
 ## Note
 
-``` bash
+> The main logic for sorting the Array as an injectable service module found
+> inside src/app/services/
 
-The main logic for sorting the Array as an injectable service module found
-inside src/app/services/
+> Example Array used is found inside src/app/data
 
-Example Array used is found inside src/app/data
+> The component using the service as injectable can be found at src/app/array-input
 
-The component using the service as injectable can be found at src/app/array-input
-
-```
