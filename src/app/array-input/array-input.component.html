@@ -1,0 +1,9 @@
+<section>
+	<div>
+		<p>[{{ integerArray }}]</p>		
+		<p>Specify number of times an integer repeats:</p>
+		<input [(ngModel)]="count" type="number" name="count" placeholder="2">
+		<button (click)="getDuplicates()">Find Duplicates</button>			
+		<p>{{ result }}</p>		
+	</div>
+</section>
