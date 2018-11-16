@@ -1,4 +1,4 @@
-# ArraysOrt
+# ArraySort
 
 Find duplicate numbers in an Array of numbers.
 
